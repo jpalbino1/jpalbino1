@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu me chamo João Pedro Albino</h1>
 <h3 align="center">Um estudante de programação aficionado por IA e IoT, sempre buscando aprender mais</h3>
 
-- 🌱 Atualmente aprendendo **PostgreSQL, Python e Machine Learning**
+- 🌱 Atualmente aprendendo **PostgreSQL, Python, Data Science e Machine Learning**
 
 - 📫 Você pode me achar através do e-mail **jpasb123@gmail.com**
 
