@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu me chamo João Pedro Albino</h1>
-<h3 align="center">Um estudante de programação aficionado por IA e IoT, sempre buscando aprender mais</h3>
+<h3 align="center">Um estudante de programação aficionado por IA, IoT e automações em geral, sempre buscando aprender mais</h3>
 
 - 🌱 Atualmente aprendendo **PostgreSQL, Python, Data Science e Machine Learning**
 
